@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    background: none;
+    text-decoration: none;
+}
+
+body{
+    font-family: "Inter", sans-serif;
+}
+
+:root{
+   
+    --font-body-size: 16px;
+    
+    --font-button-size:16px;
+    --font-button-weight: medium;
+
+    /* ------------------------fontes H ------------------------ */
+
+    --font-h1-size: 60px;
+    --font-h1-weight: bold;
+
+    --font-h2-size: 48px;
+    --font-h2-weight: bold;
+
+    --font-h3-size: 40px;
+    --font-h3-weight: bold;
+
+    --font-h4-size: 25px;
+    --font-h4-weight: bold;
+
+    /* ------------------------ cores ------------------------ */
+
+    --color-secondary-white: #FFFFFF;
+    --color-secondary-black: #333231;
+
+    --color-primary-green: #B0CB1F;
+
+}
